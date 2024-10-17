@@ -48,7 +48,9 @@
     },
     "MENU": {
       "ADD_NESTED_DOCUMENT": "Agregar Documento Anidado",
+      "CHANGE_DOCUMENT_ICON": "Cambiar icono de documento",
       "CHANGE_DOCUMENT_STATUS": "Cambiar Estado del Documento",
+      "CHANGE_FOLDER_ICON": "Cambiar icono de carpeta",
       "CUSTOMIZE_SPACED_REPETITION": "Personalizar Repetición Espaciada",
       "DELETE": "Eliminar",
       "EDIT_MODE": {
@@ -63,6 +65,8 @@
       },
       "MARK_AS_DOCUMENT": "Marcar como Documento",
       "MOVE": "Mover",
+      "MULTI_SELECTION_FOLDER": "Seleccionar varias carpetas/documentos",
+      "MULTI_SELECTION_MODE": "Elige algunos Rem",
       "OPEN_IN_ANOTHER_PANE": "Abrir en Otro Panel",
       "PIN_TO_SIDEBAR": "Fijar en la Barra Lateral",
       "PRINT": "Imprimir",
@@ -94,7 +98,8 @@
   },
   "LANGUAGE": {
     "LANGUAGE_WORD": "Idioma",
-    "TRANSLATION_INFO_SETTINGS": "La traducción aún está en curso; verá una combinación de inglés y el idioma seleccionado.<br>Puede ayudarnos a traducir leyendo el <guideLink>tutorial</guideLink> y luego usando nuestro <editorLink>editor web</editorLink>."
+    "TRANSLATION_INFO_SETTINGS": "La traducción aún está en curso; verá una combinación de inglés y el idioma seleccionado.<br>Puede ayudarnos a traducir leyendo el <guideLink>tutorial</guideLink> y luego usando nuestro <editorLink>editor web</editorLink>.",
+    "TRANSLATION_IN_PROGRESS": "idioma.traducción en progreso"
   },
   "NOTIFICATIONS": {
     "ARTICLE_DEFAULT": "Tu documento",
@@ -117,7 +122,6 @@
       "REJECT": "Rechazar"
     },
     "NEW_COMMENT": {
-      "BODY": "comentó en",
       "BODY_ARTICLE": "comentó en tu documento",
       "BODY_COMMENT": "respondió a tu comentario",
       "BODY_GROUP": "envió un mensaje a tu grupo"
@@ -329,7 +333,10 @@
       "NOTIFICATIONS": {
         "DESCRIPTION": "Envíar recordatorios móviles sobre tu racha diaria de tarjetas de estudio. Los recordatorios llegan a las 6 p.m. cada día, en tu zona horaria local.",
         "TITLE": "Notificaciones Móviles de Racha"
-      }
+      },
+      "ADVANCED_KEYWORDS": "palabras clave avanzadas",
+      "AUTHENTICATION_KEYWORDS": "CONTRASEÑAS DE AUTENTICACIÓN",
+      "EXPORT_IMPORT_KEYWORDS": "EXPORTAR IMPORTAR CONTRASEÑAS"
     },
     "EARN_CREDIT": {
       "APPLY_CREDIT": "Aplicar tu crédito",

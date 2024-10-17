@@ -1,7 +1,6 @@
 {
   "COMMON": {
     "ACTIONS": {
-      "APPLY": "Aplicar",
       "COPY": "Copiar",
       "CREATE": "Criar",
       "DELETE": "Deletar",
